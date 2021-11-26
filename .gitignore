@@ -111,7 +111,7 @@ env.bak/
 venv.bak/
 venv_credit_card_transaction/
 .venv_credit_card_transaction/
-
+*venv_credit_card_transaction
 # Spyder project settings
 .spyderproject
 .spyproject
